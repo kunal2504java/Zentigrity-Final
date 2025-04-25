@@ -1,9 +1,5 @@
 
-# Urbexium: Decentralized Civic Infrastructure Platform
-
-[![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://youtu.be/wxGTL2fb3Rs)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://vavasese.vercel.app/)
-[![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-Etherscan-orange)](https://sepolia.etherscan.io/address/0xC27FDbDD15bfbB3dE40926fcc5869cd29b5C7D5F)
+#ZENTIGRITY: Decentralized Civic Infrastructure Platform
 
 ## 🌟 Problem Statement
 
@@ -16,7 +12,7 @@ Modern civic infrastructure management faces critical challenges:
 
 ## 🚀 Solution Overview
 
-Urbexium combines blockchain, AI, and decentralized governance to create a transparent civic issue resolution platform:
+Zentigrity combines blockchain, AI, and decentralized governance to create a transparent civic issue resolution platform:
 
 ![System Architecture](public/landing_image.png)
 
@@ -135,5 +131,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Core Team - [philosanjay5@gmail.com](mailto:philosanjay5@gmail.com)
 ---
 
-**Urbexium** - Rebuilding Civic Trust Through Decentralized Governance  
+**Zentigrity** - Rebuilding Civic Trust Through Decentralized Governance  
 *"Empowering Communities, One Block at a Time"*
